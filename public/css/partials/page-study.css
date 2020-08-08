@@ -18,7 +18,7 @@
   margin-bottom: 1.4rem;
 }
 
-#search-teachers button{
+#search-teachers .button{
   width: 100%;
   height: 5.6rem;
   background: var(--color-secondary);
@@ -35,7 +35,11 @@
   
 }
 
-#search-teachers button:hover{
+.icon-zap{
+  margin-right: 20px;
+}
+
+#search-teachers .button:hover{
   background-color: var(--color-secondary-dark);
 }
 
