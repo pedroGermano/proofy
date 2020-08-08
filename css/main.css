@@ -38,6 +38,7 @@ body{
   justify-content: center;
 }
 
+
 body,
 input,
 button,
@@ -45,6 +46,7 @@ textarea{
   font: 500 1.6rem Poppins;
   color: var(--color-text-base);
 }
+
 
 #container{
   width: 90vw;
